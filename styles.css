@@ -32,5 +32,7 @@ html {
 
 .key.black--key::after {
   background-color: #1d1e22;
-  content: "";
+  content: "P";
+  position: absolute;
+  left: -18px;
 }
